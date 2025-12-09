@@ -1,5 +1,5 @@
 Description of scripts / data usage for "Simultaneous detection of GABA and Glycine using MEGA-PRESS with TE optimization at 3T"
-If you use this code, please cite the afformentioned paper.
+If you use this code, please cite: https://doi.org/10.1002/mrm.70219 
 
 Many of these functions require GANNET and/or FID-A, which can be found at: 
 
